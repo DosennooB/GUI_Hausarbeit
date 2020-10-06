@@ -1,0 +1,3 @@
+Das C Programm ist unter Code Blocks mit der Visual Studio 2010 Compiler Toolchain getestet wurden.
+Es liegt einen für windows 10 x64 kompilierte ausfürbare Datei bei.
+
